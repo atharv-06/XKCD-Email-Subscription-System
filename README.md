@@ -7,12 +7,12 @@
 
 <b>Key Features:</b>
 <br>
-•Email Verification: Implemented a 6-digit verification system to ensure valid user registrations.
+**•Email Verification:** Implemented a 6-digit verification system to ensure valid user registrations.
 <br>
-•Unsubscribe Flow: Designed a secure unsubscribe process with confirmation codes to prevent accidental removals.
+**•Unsubscribe Flow:** Designed a secure unsubscribe process with confirmation codes to prevent accidental removals.
 <br>
-•Automated Delivery: Set up a CRON job using cron.php for automatic daily comic emails.
+**•Automated Delivery:** Set up a CRON job using cron.php for automatic daily comic emails.
 <br>
-•Enhanced UX: Sent HTML-formatted emails with embedded comic images and unsubscribe links.
+**•Enhanced UX:** Sent HTML-formatted emails with embedded comic images and unsubscribe links.
 <br>
-•Subscriber Management: Maintained subscribers in registered_emails.txt for a lightweight, database-free solution.
+**•Subscriber Management:** Maintained subscribers in registered_emails.txt for a lightweight, database-free solution.
