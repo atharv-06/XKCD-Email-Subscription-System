@@ -1,5 +1,5 @@
 # XKCD Daily Comic Subscription Platform
-<b>Technologies:<b> PHP, HTML, CSS, CRON jobs, Email Automation
+<b>Technologies:</b> PHP, HTML, CSS, CRON jobs, Email Automation
 
 Project Overview:
 Developed a lightweight subscription-based platform that delivers random XKCD comics to registered users every 24 hours.
